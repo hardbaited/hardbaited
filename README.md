@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Software Engineer At [REDACTED] <br>⚡ I'm spending most of my free time coding for FiveM/RedM<br>💯 I'm Currently a contributor on RPX framework but im working on RSG for my personal project on RedM<br>🖥I've also worked with private individuals to bring their web application ideas to life besides my current job
+🔭 I’m currently working as Software Engineer At [REDACTED] <br>⚡ I'm spending most of my free time coding for FiveM/RedM<br>💯 I'm Currently a contributor on RSG and RPX framework<br>🖥I've also worked with private individuals to bring their web application ideas to life besides my current job
 
 
 ## 🌐 Socials:
